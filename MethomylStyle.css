@@ -7,7 +7,7 @@ body {
     max-width: 100%;
 }  
 p{
-    line-height: larger;
+    line-height: 2em;
     font-size: 20px;
     width: 70%;
     margin: auto;
