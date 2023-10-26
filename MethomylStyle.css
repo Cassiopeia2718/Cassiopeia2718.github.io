@@ -8,6 +8,8 @@ body {
 }  
 p{
     font-size: 20px;
+    width: 50%;
+    margin: auto;
 }  
 #title{
     font-size: 80px;
