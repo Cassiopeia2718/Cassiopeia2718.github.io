@@ -3,6 +3,7 @@ body {
     background-image: url("corn-field.jpg");
     background-size: 100%;
     background-position: relative;
+    background-attachment: fixed;
     max-width: 100%;
     max-width: 100%;
 }  
